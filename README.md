@@ -11,15 +11,16 @@
 
 ```go
 whoAmI := map[string]interface{}{
-	"name":            "Mostafa Hosseinkhani",
-	"profession":      "Software Engineer, Frontend Developer, Backend Developer",
-	"location":        "The Iran",
-	"currentPosition": "Senior software developer and Team Lead in Simorgh34000.com",
-	"languages":       []string{"C#", "T-SQL", "Javascript" "Typescript"},
-	"frameworks":      []string{"Angular", "AngularJs", ".Net", "Bootstrap"},
-	"databases":       []string{"SQLserver", "MySQL", "MongoDB", "Redis"},
-	"tools":           []string{"Docker", "NService Bus", "Git"},
-	"systems":         []string{"Windows","Linux"},
+	"name":              "Mostafa Hosseinkhani",
+	"profession":        "Software Engineer, Frontend Developer, Backend Developer",
+	"location":          "The Iran",
+	"currentPosition":   "Senior software developer and Team Lead in Simorgh34000.com",
+	"languages":         []string{"C#", "T-SQL", "Javascript" "Typescript"},
+	"frameworks":        []string{"Angular", "AngularJs", "ASP.NET Core", ".Net", "Bootstrap","jQuery"},
+	"databases":         []string{"SQLserver", "MySQL", "MongoDB", "Redis"},
+	"tools":             []string{"Docker", "xUnit", "Git","Cypress"},
+	"systems":           []string{"Windows","Linux"},
+        "software problems": []string{"Domain Driven Design","Design Patterns"}
 }
 ``` 
 
