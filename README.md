@@ -10,7 +10,7 @@
 
 
 ```go
-whoAmI := map[string]interface{}{
+whoAmI = {
 	"name":              "Mostafa Hosseinkhani",
 	"profession":        "Software Engineer, Frontend Developer, Backend Developer",
 	"location":          "The Iran",
@@ -20,7 +20,7 @@ whoAmI := map[string]interface{}{
 	"databases":         []string{"SQLserver", "MySQL", "MongoDB", "Redis"},
 	"tools":             []string{"Docker", "xUnit", "Git","Cypress"},
 	"systems":           []string{"Windows","Linux"},
-        "software problems": []string{"Domain Driven Design","Design Patterns"}
+        "resolve problems":  []string{"Domain Driven Design","Design Patterns"}
 }
 ``` 
 
