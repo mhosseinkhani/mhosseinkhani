@@ -38,10 +38,10 @@ whoAmI = {
 	<img alt="html5" src="https://img.shields.io/badge/In-LinkedIn-blue" />
 	</a>
 <a href="mailto:mosi98@gmail.com">
-	  <img alt="html5" src="https://img.shields.io/badge/C%23-Dotnet-blue" />
+	  <img alt="html5" src="https://img.shields.io/badge/Mail-E--Mail-green" />
 	</a>
 	
-	<h3>Things I code with</h3>
+<h3>Things I code with</h3>
 <p>
   <img alt="Angular" src="https://img.shields.io/badge/C%23-C%23-red" />
   <img alt="Angular" src="https://img.shields.io/badge/Ng-Angular-red" />
